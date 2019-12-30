@@ -1,0 +1,5 @@
+classes= 1
+train  = data/cig-train.txt
+valid  = data/cig-test.txt
+names = data/cig-obj.names
+backup = backup/
