@@ -120,7 +120,6 @@
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/3000030.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/3000024.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/9000094.jpg
-/content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/4000040.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/7000060.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3775 12.32.11 PM.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3691.jpg
