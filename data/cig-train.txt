@@ -43,7 +43,6 @@
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3564 11.20.25 AM.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/9000045.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3287.jpg
-/content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/4000046.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3708.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/7000072.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3739 12.32.12 PM.jpg
@@ -264,7 +263,6 @@
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/7000015.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/4000035.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/4000021.jpg
-/content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/3000086.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3223.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/9000034.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/9000020.jpg
@@ -391,7 +389,6 @@
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/2000007.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/7000020.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3756 12.32.12 PM.jpg
-/content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/4000000.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/4000028.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/3000070.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_2861.jpg
@@ -534,7 +531,6 @@
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/6000035.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/6000021.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/6000009.jpg
-/content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/6000008.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/1000087.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/6000020.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/6000034.jpg
@@ -543,7 +539,6 @@
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/5000028.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/5000014.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/IMG_3780 12.32.11 PM.jpg
-/content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/8000017.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/8000003.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/2000058.jpg
 /content/drive/My Drive/HEADCOUNT AI/DATASETS/Cigarettes/obj/2000070.jpg
